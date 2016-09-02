@@ -1,0 +1,122 @@
+.floatleft {
+  float: left;
+}
+.clearfix {
+  clear: both;
+}
+#main {
+  color: #f7e3ce;
+  background: #943c4a;
+  height: 1500px;
+}
+#main .searchh {
+  padding: 30px;
+  height: 100px;
+}
+#main h1 {
+  margin: 0;
+}
+#main i {
+  color: #943c4a;
+  position: absolute;
+  top: 10px;
+  right: 30px;
+}
+#main .input1 {
+  position: relative;
+}
+#main .button1 {
+  width: 35px;
+  height: 35px;
+  background: #f7e3ce;
+}
+ul li {
+  display: inline;
+  margin-right: 14px;
+  font-size: 25px;
+}
+ul {
+  padding-left: 0px;
+}
+#videos {
+  height: 50px;
+}
+#view {
+  font-size: 12px;
+  margin-top: 21px;
+}
+.box1 {
+  height: 230px;
+  background: #f7e3ce;
+  border: 1px solid black;
+}
+.box2 {
+  width: 98%;
+  height: 110px;
+  border: 1px solid black;
+  background: #f7e3ce;
+  margin-top: 10px;
+}
+#obsiy2 {
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+  height: 350px;
+}
+#obsiy2 div div {
+  width: 80px;
+  height: 46.666666px;
+  border: 1px solid black;
+  background: #f7e3ce;
+  margin-top: 9px;
+}
+#yazilar {
+  height: 350px;
+}
+#yazilar h5 {
+  width: 237px;
+  height: 46.6666px;
+  background: #943c4a;
+  margin-top: 8px;
+}
+#people {
+  height: 50px;
+  margin-top: 20px;
+}
+#browse {
+  font-size: 12px;
+  margin-top: 21px;
+}
+.boxa {
+  height: 230px;
+  background: #f7e3ce;
+  border: 1px solid black;
+}
+.boxb {
+  width: 98%;
+  height: 110px;
+  border: 1px solid black;
+  background: #f7e3ce;
+  margin-top: 10px;
+}
+#obs2 {
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+  height: 528px;
+}
+#docum {
+  font-size: 35px;
+  margin-left: -28px;
+  margin-top: 15px;
+}
+#docum2 {
+  font-size: 12px;
+  margin-left: 28px;
+  margin-top: 38px;
+}
+#besq {
+  height: 92px;
+  margin-top: 10px;
+  background: #f7e3ce;
+  border: 1px solid black;
+  width: 112%;
+}
